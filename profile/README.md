@@ -36,6 +36,8 @@ If you're interested in working with us, please visit our [website](https://devm
 
 We love contributing to the OSS community. Take a look at some of our repositories below:
 
+- [syd-tracker](https://github.com/devmera/syd-tracker) - Rust library for tracking Skydive SYD airplane (SE-MJA) and publish ADSB messages to SQS
+
 The list will grow, so please follow us and check back regularly for more OSS goodness!
 
 ## Contribution guidelines ✍️
